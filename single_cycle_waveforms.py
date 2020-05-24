@@ -19,7 +19,7 @@ import wavetable
 import dsp
 import os
 
-FOLDER_PATH = r'C:\\Users\\Chris Speed\\Music\\Wavetables' #add your file directory here
+FOLDER_PATH = r'' #add your file directory here
 
 def list_dir(my_dir):
     file_names = os.listdir(my_dir)
