@@ -1,3 +1,5 @@
+Single Cycle Waveforms
+
 Python script for creating Single Cycle Waveforms from Wav files.
 
 Originally for hardware such as the Elektron Monomachine / Octatrack. 
