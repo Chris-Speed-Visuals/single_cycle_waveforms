@@ -1,4 +1,4 @@
-* Single Cycle Waveforms
+# Single Cycle Waveforms
 
 Python script for creating Single Cycle Waveforms from Wav files.
 
